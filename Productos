@@ -1,7 +1,0 @@
-class Producto{
-    producto(cat, pre){
-        categoria = cat;
-        precio = precio;
-    }
-    
-}
